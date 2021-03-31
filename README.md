@@ -1,6 +1,5 @@
 # PRAJIKA
 This project was ideated keeping in mind the scarcity of convesations around puberty in India. we have developed this incluive platform wth the purpose of helping teenagers by providing them with useful resources relating to adolescent issues.
-Here is the link to the actual website: https://prajika.godaddysites.com/
 We have the the code for the different pages which can be accesed through the various files they are named after:
 1. HOME
 2. SEX ED
